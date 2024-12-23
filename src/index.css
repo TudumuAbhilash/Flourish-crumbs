@@ -1,0 +1,12 @@
+/* src/index.css */
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+/* Other global styles (optional) */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
